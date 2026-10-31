@@ -1,4 +1,7 @@
-
 Flask
 supabase
 gunicorn
+openai
+opentelemetry-api
+opentelemetry-sdk
+requests
